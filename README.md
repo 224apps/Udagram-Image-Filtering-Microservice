@@ -1,6 +1,3 @@
-# refactor-udagram-app-into-microservices-and-deploy
-Udacity Cloud Developer Nanodegree Program - project  4
-
 
 ## About Project:
 goal of project to create web app that user can register and log-gin and upload images to S3 bucket, then show images (even when user is not logged-in)
